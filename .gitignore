@@ -1,0 +1,13 @@
+﻿# Ignore virtual environments
+venv/
+# Ignore VS Code settings
+.vscode/
+# Ignore datasets or outputs
+data/
+eda_outputs/
+# Ignore model files
+*.h5
+*.pt
+*.pkl
+*.joblib
+*.sav
